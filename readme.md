@@ -11,7 +11,7 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Daily Updates
 
-### [Day 1](/path/to/day1.md) Dec. 26, 2023 
+### [Day 1](/Pre-Calculus/day_1-functions.md) Dec. 26, 2023 
 - Watched video on [Introduction to Functions (Precalculus - College Algebra 2)](https://youtu.be/FkUEsP9efFg?si=-CqrPY1XuoAFuWqZ)
 
 
