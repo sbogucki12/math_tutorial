@@ -11,14 +11,15 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Daily Updates
 
-### [Day 1](/Pre-Calculus/day_1-functions.md) Dec. 26, 2023 
+### [Day 1](/Pre-Calculus/functions.md) Dec. 26, 2023 
 - Watched video on [Introduction to Functions (Precalculus - College Algebra 2)](https://youtu.be/FkUEsP9efFg?si=-CqrPY1XuoAFuWqZ)
 
 
-<!-- ### [Day 2](/path/to/day2.md)
-- Watched video on Limits and Continuity
-- Completed challenge problem on evaluating limits
-
+### [Day 2](/Pre-Calculus/functions.md) Dec. 27, 2023
+- Watched video on Domain Problems and the brief intro to Difference Quotient
+- Practiced evaluating functions (with physical pen and paper)
+  
+<!-- 
 ### [Day 3](/path/to/day3.md)
 - Watched video on Derivatives
 - Completed challenge problem on finding tangent lines
