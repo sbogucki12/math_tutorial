@@ -57,15 +57,15 @@ When you solve for square roots, the result tells you what it wants the domain t
 
 D: x <= $\frac{5}{4}$
 
-(Domain includes any real number that is less than $\frac{5}{4}$, which can include negative numbers!)
+(Domain includes any real number that is less than $\frac{5}{4}$ , which can include negative numbers!)
 
-Nomenclature: D: {x | x <= $\frac{5}{4}$}
+Nomenclature: D: {x | x <= $\frac{5}{4}$ }
 
 "Domain is x SUCH THAT x is less than or equal to five-fourths"
 
 Interval notation: 
 
-( -$\infty$, $\frac{5}{4}$ ]
+( - $\infty$ , $\frac{5}{4}$ ]
 
 When you have fractions, you set the denominator equal to zero to solve for what numbers CAN NOT be the domain
 
@@ -79,11 +79,11 @@ Solve that: t != 0, t != 4, t != -4 (if you plugged any of these in the function
 
 Interval notation: 
 
-(-$\infty$, -4) U (-4, 0) U (0, 4) U (4, $\infty$)
+(- $\infty$, -4) U (-4, 0) U (0, 4) U (4, $\infty$)
 
 if the function has no square roots, no fractions and no logarithms, then the domain is all real numbers
 
-( -$\infty$, $\infty$ )
+( - $\infty$, $\infty$ )
 
 
 
