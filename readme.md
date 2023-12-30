@@ -11,18 +11,25 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Daily Updates
 
-### [Day 1](/Pre-Calculus/functions.md) Dec. 26, 2023 
-- Watched video on [Introduction to Functions (Precalculus - College Algebra 2)](https://youtu.be/FkUEsP9efFg?si=-CqrPY1XuoAFuWqZ)
+### [Day 4](/Pre-Calculus/functions.md) Dec. 30, 2023
+- Watched video on Operations of Functions
+- Practiced retaining domain issues, then executing operations on the functions 
 
+### [Day 3](/Pre-Calculus/functions.md) Dec. 28, 2023
+- Watched video on Domain problems
+- Practiced how to determine Domain when there are square roots and fractions with variables in the denominator 
 
 ### [Day 2](/Pre-Calculus/functions.md) Dec. 27, 2023
 - Watched video on Domain Problems and the brief intro to Difference Quotient
 - Practiced evaluating functions (with physical pen and paper)
   
+### [Day 1](/Pre-Calculus/functions.md) Dec. 26, 2023 
+- Watched video on [Introduction to Functions (Precalculus - College Algebra 2)](https://youtu.be/FkUEsP9efFg?si=-CqrPY1XuoAFuWqZ)
+
+
+
  
-### [Day 3](/Pre-Calculus/functions.md) Dec. 28, 2023
-- Watched video on Domain problems
-- Practiced how to determine Domain when there are square roots and fractions with variables in the denominator 
+
 
 
 

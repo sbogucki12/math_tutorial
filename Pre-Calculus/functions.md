@@ -85,7 +85,18 @@ if the function has no square roots, no fractions and no logarithms, then the do
 
 ( - $\infty$, $\infty$ )
 
+## Operations of functions
 
+When dividing fucntions, retain the domain from the original functions, divide the functions and then include in the set, the additional domain outputs from the division. 
 
+So...
+
+f(x) = $\frac{2x-3}{3x-2}$ and g(x) = $\frac{4x}{3x-2}$  ... 3x-2=0, d: {x| x!= $\frac{2}{3}$ )
+
+retain that. 
+
+Then perform the division.  Resulting in x!=0.  So, in total: d: {x| x!= $\frac{2}{3}$ , x!=0 }
+
+In short: When you add/subtract/multiply/divide functions, you always retain the problems of the domain of the original function. After executing the operations, you may add new problems to the domain, but you will never lose the original problems.  
 
 
