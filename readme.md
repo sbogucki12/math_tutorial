@@ -11,6 +11,9 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Daily Updates
 
+### [Day 5](/Pre-Calculus/graphs.md) Jan. 6, 2024 
+- Watched video on [Features of Graphs, Domain, Range](https://youtu.be/d3b-4Zz65ZE?si=HJsLH23a3hDBFvil)
+
 ### [Day 4](/Pre-Calculus/functions.md) Dec. 30, 2023
 - Watched video on Operations of Functions
 - Practiced retaining domain issues, then executing operations on the functions 
