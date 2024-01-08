@@ -12,7 +12,7 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 ## Timeline
 
 
-### [Day 6](/Pre-Calculus/functions.md) Jan. 6, 2024 
+### [Day 6](/Pre-Calculus/functions.md) Jan. 7, 2024 
 - Watched video on [Properties of Functions - Even or Odd](https://youtu.be/6897XAx3O9Q?si=j_GUtMf7SOe-Ja3D)
 
 ### [Day 5](/Pre-Calculus/graphs.md) Jan. 6, 2024 
