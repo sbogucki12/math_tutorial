@@ -105,3 +105,35 @@ Graphing - horizontal axis is input, vertical is output
 
 Plot your input on the horizontal axis, draw a vertical line extending above and below it, if it has more than one output on that line, it is not a function (remember: to be a function, an input can only have one output)
 
+
+## Evens vs Odds
+
+![Even and Odd Graphs](even-or-odd.png)
+
+If you graph an **even** function, it is symmetric on the y-axis.
+
+For even functions, opposite inputs (x), give you the same outputs (y)
+
+f(x) = f(-x)
+
+**Odd** functions: if you rotate the graph 180$\degree$ about the origin, it'll be the same picture
+
+Opposite inputs equal opposite outputs 
+
+-f(x) = f(-x)
+
+### To solve
+
+If you plug in a negative value for a positive function and nothing changes, you have an even function
+
+f(x) = 2x${^4}$ - x${2}$
+
+plug in -x. 
+
+-x to any exponent becomes positive, so nothing changes in this one.  The function is even. 
+
+If you solve it, and it becomes the same thing but opposite sign, it is odd.  
+
+![Even and Odds Algebraically](even-odd-no-graph.png)
+
+![Alt text](image.png)
