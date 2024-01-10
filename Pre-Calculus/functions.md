@@ -137,3 +137,4 @@ If you solve it, and it becomes the same thing but opposite sign, it is odd.
 ![Even and Odds Algebraically](even-odd-no-graph.png)
 
 ![Alt text](image.png)
+

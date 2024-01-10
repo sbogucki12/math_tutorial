@@ -47,6 +47,35 @@ f(0) = $\frac{0+2}{0-6}$
 ![Solving without Graphs](graphs-intro-2.png)
 
 
+## Increasing or Decreasing
+
+Increasing and decreasing is simply the x-axis intervals where the graph is either climbing (increasing) or falling (decreasing).
+
+Indicate those intervals with parentheses (open intervals) because the points at which the graph is level, it is neither decreasing nor increasing. 
+
+![Decreasing and Increasing](decreasing-increasing.png)
+
+## Extrema (local and absolute max/min)
+
+Only going to learn these now with graphs because we would need calculus to determine algebraically. 
+
+The local max is the peak (output) between increasing and decreasing. But cannot occur at an endpoint. You can have multiple local maxes. 
+
+The local min is the trough (output) between decreasing and increasing. But cannot occur at an endpoint. You can have multiple local mins. 
+
+The absolute max is the highest output on a graph and can be an endpoint. 
+
+The absolute min is the lowest output on a graph and can be an endpoint.  
+
+If you don't have a continuous graph, you might not have a local/absolute min/max (in the top-right graph in the image, for example, where the local max would be is an open point).  In that example, for the same reason, there is no absolute max.  There is an absolute min, though, because the lowest point is a closed point.  
+
+![Low/Absolute Max and Min](extrema.png)
+
+
+
+
+
+
 
 
 
