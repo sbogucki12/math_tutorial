@@ -71,12 +71,34 @@ If you don't have a continuous graph, you might not have a local/absolute min/ma
 
 ![Low/Absolute Max and Min](extrema.png)
 
+## Average Rate of Change
+
+In this image, the secant line is the top one, and the tangent is the bottom one. 
+
+![Secant and tangent lines](secant-tangent.png)
+
+The average rate of change for the secant line is not initially a good representation for the average rate of change for the tangent line. 
+
+But, as you bring b on the x-axis closer to a, the rate of change for the secant line becomes a closer representation for the rate of change for that point b of the tangent line.  
+
+The **average rate of change** is the slope between two points. 
+
+Average rate of change =  $\frac{f(b) - f(a)}{x_2 - x_1}$
 
 
+## Graphing piecewise functions 
 
+In a piecewise function, you are told which of the inputs (pieces) to use, based on some conditions. 
 
+![Piecewise Function](piecewise-function.png)
 
+Above, you would use $x^3$ as input if  x < 1.  You would use 3x-2 if x >= 1.
 
+$x^3$ and x <= 1 is the domain of this function. 
+
+To graph these, you first divide up your graph based on the intervals of the domain.  You then graph the lines for each input, but only within its interval on the x-axis.  
+
+![Graphing Piecewise Functions](piecewise-graph.png)
 
 
 

@@ -11,6 +11,10 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+### [Day 8](/Pre-Calculus/graphs.md) Jan. 14, 2024 
+- Watched video on [Piecewise Functions](https://www.youtube.com/watch?v=KHZKgl_9o7M&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=12)
+- Watched video on [Average Rate of Change](https://www.youtube.com/watch?v=H5Y-ONkezDM&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=11)
+
 ### [Day 7](/Pre-Calculus/graphs.md) Jan. 9, 2024 
 - Watched video on [Properties of Functions - Extrema (Local and Absolute Max & Min)](https://www.youtube.com/watch?v=2hItEGb3KJo&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=10)
 
