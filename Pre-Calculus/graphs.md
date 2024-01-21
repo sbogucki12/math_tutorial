@@ -100,5 +100,55 @@ To graph these, you first divide up your graph based on the intervals of the dom
 
 ![Graphing Piecewise Functions](piecewise-graph.png)
 
+## Graph Transformations
+
+If you add or substract from a function's output value, you will transform the graph vertically.  (think about it: in the functions below, the constant changes the output, not the input; the input is still x): 
+
+f(x) + k
+f(x) - k
+
+Same logic with the horizontal shift: You shift horizontally when the constant that you add (or substract) to the function is affects the input. **But**, the shift is opposite of the direction you would intuitively think (plus shifts left, subtract shifts right): 
+
+f(x+h)
+f(x-h)
+
+Functions can shift vertically *and* horizontally: 
+
+f(x) = (x+1)$^3$ -1 
+
+The plus 1 in the parantheses affects the input, the minus one out affects the output.
+
+![Intro to Graph Transformations](transformations-intro.png)
+
+### Stretching, compressing, reflecting
+
+When you multiply your output value , you vertically stetch/compress:
+
+y = a * f(x)
+
+If the number you are multiplying the output by is greater than one, then you stretch vertically.  If it is less than one, you compress.
+
+A vertical stretch is a horizontal compression. Stretch makes the graph more narrow. 
+A vertical compression is a horizontal stretch. Compression makes the graph more wide. 
+
+Since it affects the output, you can multiply the constant with the outputs of your key points (key points are the points that you know from our library of essential functions)
+
+
+Horizontally compress/stretch, when you multiply the input.  
+Remember, when affecting inside the parantheses (the input), the shift is opposite of your intuition. 
+Mutliply input by number greater than one, you horizontally **compress**
+Multiply input by number less than one, you horizontally **stretch**
+
+Reflect about the x-axis when you change the sign of the output: 
+
+y = -f(x)
+
+That literally says, y (the output) is negative.  So, where the outputs in the key points would normally be positive, they become negative. And vice versa. Just change the sign of the outputs in your key points. 
+
+Reflect about the y-axis when you change the sign of the input: 
+
+y = f(-x)
+
+![Stretch, compress, reflect](stretch-compress-reflect.png)
 
 

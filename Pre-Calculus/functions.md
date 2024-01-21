@@ -137,6 +137,11 @@ If you solve it, and it becomes the same thing but opposite sign, it is odd.
 ![Even and Odds Algebraically](even-odd-no-graph.png)
 
 
+## Essential functions
 
+All odd functions have (1,1) and (-1,-1) as points. 
 
+Must memorize these: 
+
+![Essential Functions](essential-functions.png)
 
