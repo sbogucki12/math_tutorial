@@ -12,7 +12,7 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 ## Timeline
 
 
-### [Day 9](/Pre-Calculus/graphs.md#stretching-compressing-reflecting) Jan. 21, 2024 
+### [Day 9](/Pre-Calculus/graphs.md#graph-transformations) Jan. 21, 2024 
 - Watched video on [Transforming Graphs](https://www.youtube.com/watch?v=sTCRB6hMsC4&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=14)
   - Vertical and horizontal shifts, stretching, compressing and reflecting. 
   - I think I forgot to log it, but during one these past days, I watched the video on the essential functions and memorized the graph of some key functions, which is important for being able to shift them easilly.  
