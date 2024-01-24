@@ -11,6 +11,11 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+### [Day 10](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/graphs.md#graph-transformations) Jan. 23, 2024 
+- Watched video on [Graphing Transformations](https://www.youtube.com/watch?v=HkrMJLSpJFI&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=15)
+  - Actually paused the video and worked through all of the transformations.  This actually all makes sense to me and I was able to work them out correctly. 
+ 
+
 
 ### [Day 9](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/graphs.md#graph-transformations) Jan. 21, 2024 
 - Watched video on [Transforming Graphs](https://www.youtube.com/watch?v=sTCRB6hMsC4&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=14)

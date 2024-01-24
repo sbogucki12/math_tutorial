@@ -151,4 +151,11 @@ y = f(-x)
 
 ![Stretch, compress, reflect](stretch-compress-reflect.png)
 
+To set up your functions for transformations: 
 
+1. Make the function look like one of the essential functions (in the example, he factors out the 3 from the fraction to leave $\frac{1}{x-2}$ which is similar to essential reciprical function: $\frac{1}{x}$)
+2. Make inside of function (input) have positive x
+3. Make sure x comes first in the input
+
+
+![More graph tgransformations](graph-transformations-cont.png)
