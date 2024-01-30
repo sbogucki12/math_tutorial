@@ -11,6 +11,10 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+### [Day 11](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#square-root-method) Jan. 29, 2024 
+- Watched video on [Square Root Method in Solving Quadratics](https://www.youtube.com/watch?v=mXAd6rkNSK0&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=17&t=13s)
+
+
 ### [Day 10](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/graphs.md#graph-transformations) Jan. 23, 2024 
 - Watched video on [Graphing Transformations](https://www.youtube.com/watch?v=HkrMJLSpJFI&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=15)
   - Actually paused the video and worked through all of the transformations.  This actually all makes sense to me and I was able to work them out correctly. 
