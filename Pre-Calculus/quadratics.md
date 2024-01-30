@@ -1,7 +1,7 @@
 ## Square Root Method
 
 1. Set function = 0
-2. Isolate the x$^2$
+2. Isolate the x $^2$
 3. Take the square root of both sides
 *Don't forget to add +/- with your square root (because, remember, you're looking for the x-intercepts of a parabola, so you typically will get two solutions)*
 
