@@ -11,6 +11,13 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+### [Day 12](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#factoring) Feb 2, 2024 
+- Watched video on [Factoring to Solve Quadratics](https://www.youtube.com/watch?v=u2CFHYJWS60&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=18)
+  - Paused video and actually solved all of the examples. &#x2705;
+
+
+
+
 ### [Day 11](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#square-root-method) Jan. 29, 2024 
 - Watched video on [Square Root Method in Solving Quadratics](https://www.youtube.com/watch?v=mXAd6rkNSK0&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=17&t=13s)
 
