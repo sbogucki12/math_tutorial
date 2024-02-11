@@ -11,8 +11,8 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
-### [Day 14](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#Quadratic-Formula) Feb 10, 2024 
-- Watched video on [Proving te Quadratic Formula](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=20)
+### [Day 14](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#quadratic-formula) Feb 10, 2024 
+- Watched video on [Proving the Quadratic Formula](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=20)
 - Watched video on [Using the Quadratic Forumla](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=22)
 
 ### [Day 13](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#Completing-the-Square) Feb 3, 2024 
