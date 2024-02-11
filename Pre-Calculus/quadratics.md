@@ -61,7 +61,7 @@ $\sqrt{(x+2)^2}$ = +- $\sqrt{7}$
 
 x = -2 + $\sqrt{7}$ and x = -2 - $\sqrt{7}$
 
-**Note:** *This works if the coeeficient on the a term is 1.*
+**Note:** *This works if the coeficient on the a term is 1.*
 
 If you can factor out from the first two terms to make the coefficient in the first term 1.  See the example in the top right: 
 
@@ -73,3 +73,46 @@ In the example above, though you added 1 to the equation, you actually have to c
 
 **Note:** *How to divide a fraction in half?  Divide the numerator by two or nultiply the denominator by two*
 
+## Quadratic Formula
+
+x = $\frac{- (b) +- \sqrt{(b) ^2 -4(a)(c)}}{2(a)}$
+
+quadratic has three terms (a, b, c) that you will plug into the formula
+
+$3x ^2 - 5x +1 = 0$
+
+a is 3
+
+b is -5
+
+c is 1
+
+**Note:** *In the previous video, he proved the formula using completing the squares.*
+
+The term inside the squart root is called the **discriminant**
+
+**Don't ever plug fractions into the quadratic formula**
+
+To get rid of the fraction, multiply both sides by the Least Common Denominator 
+
+If your a term is negative, you can change it to positive, but you must change the sign for all terms. 
+
+To use the quadratic formula, first need to get the quadratic in standard form:
+
+$ax ^2 + bx + c$
+
+When you simplify, you have to remember how to simplify a square root.  Like 48: 
+
+Take the largest perfect square that goes into the number (48) which, in this case, is 16.  16 * 3 = 48.  square root of 48 becomes $\sqrt{16 * 3}$
+
+The square root of 16 is 4, and you can't take a square root of 3, so you get: $4 \sqrt{3}$
+
+If you have the square root of a negative number, you are going to have an imaginary number, so...
+
+For example: $\sqrt{-63}$
+
+Simplify into -1 and 9 * 7 
+
+$\sqrt{-1 * 9 * 7}$
+
+which simplifies to 3i $\sqrt{7}$ (remember the square root of -1 is i)
