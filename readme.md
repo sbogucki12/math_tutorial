@@ -11,6 +11,10 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+
+### [Day 15](/Pre-Calculus/functions.md#Intersection-of-functions) Feb 16, 2024 
+- Watched video on [Finding Intersection of Functions](https://www.youtube.com/watch?v=2cXEuUazjCc&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=22)
+
 ### [Day 14](https://github.com/sbogucki12/math_tutorial/blob/main/Pre-Calculus/quadratics.md#quadratic-formula) Feb 10, 2024 
 - Watched video on [Proving the Quadratic Formula](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=20)
 - Watched video on [Using the Quadratic Forumla](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=22)
