@@ -145,3 +145,19 @@ Must memorize these:
 
 ![Essential Functions](essential-functions.png)
 
+
+## Intersection of functions
+
+To find the intersection of two functions: 
+
+Set the functions so that one equals the others. 
+
+Then use algebra to shift the terms so that the equation is = 0. 
+
+Solve for X(s).
+
+Plug the results into the only functions for x to get the y coordinates. 
+
+
+
+
