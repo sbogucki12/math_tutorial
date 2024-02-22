@@ -11,6 +11,9 @@ Welcome to my repository! Here, you will find my detailed notes and solutions to
 
 ## Timeline
 
+### [Day 16](/Pre-Calculus/quadratics.md#solving-with-substitutions) Feb 21, 2024 
+- Watched video on [Using Substitutions to Solve Equations](https://youtu.be/P8uoP-JFj54?si=QFXK-vWbrM8w29ke)
+
 
 ### [Day 15](/Pre-Calculus/functions.md#intersection-of-functions) Feb 16, 2024 
 - Watched video on [Finding Intersection of Functions](https://www.youtube.com/watch?v=2cXEuUazjCc&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=22)

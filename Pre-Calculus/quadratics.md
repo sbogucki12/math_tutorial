@@ -116,3 +116,29 @@ Simplify into -1 and 9 * 7
 $\sqrt{-1 * 9 * 7}$
 
 which simplifies to 3i $\sqrt{7}$ (remember the square root of -1 is i)
+
+## Solving with Substitutions 
+
+Works if the first term is to the second power and the second term is to the first power and both of the terms being raised are the same 
+
+(they have to be the same so that you can replace them with the same variable)
+
+1. Set the function = 0
+   1. Substitution will work if the exponent of the first term is 2x the exponent in the second term
+   2. To set up the quadratic for substitution, you can replace the exponent of the first term with the exponent from the second term, and then square the exponent of the first term (see example below)
+2. Replace the common term in the first and second term with u
+3. Now you should have $u^2$ * u + c = 0.  Which you can factor out. 
+4. Solve for u
+5. Whatever you got for u (may be two values), set equal to the orignal value your replaced.  So, in the example below: $x^\frac1{3}$ = 5. 
+6. Solve for x (or whatever variable you substituted for). In the example above, you could cube both sides to remove the $\frac1{3}$ exponent. 
+
+$x^\frac2{3}$ becomes $x^\frac1{3}$$^2$  
+
+Which prepares us to perform substitution for the $x^\frac1{3}$ term. 
+
+u = $x^\frac1{3}$
+
+![Substitution](substitution.png)
+
+
+![Substitution](substitution2.png)
