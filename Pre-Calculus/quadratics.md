@@ -132,7 +132,7 @@ Works if the first term is to the second power and the second term is to the fir
 5. Whatever you got for u (may be two values), set equal to the orignal value your replaced.  So, in the example below: $x^\frac1{3}$ = 5. 
 6. Solve for x (or whatever variable you substituted for). In the example above, you could cube both sides to remove the $\frac1{3}$ exponent. 
 
-$x^\frac2{3}$ becomes $x^\frac1{3}$$^2$  
+$x^\frac2{3}$ becomes $x^\frac1{3}$ $^2$  
 
 Which prepares us to perform substitution for the $x^\frac1{3}$ term. 
 
